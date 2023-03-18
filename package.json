@@ -1,0 +1,29 @@
+{
+  "name": "validate-email",
+  "version": "1.0.0",
+  "description": "Validate email, If it is valid or not, or is it a disposable or temprory email.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayank30/validate-email.git"
+  },
+  "keywords": [
+    "regex",
+    "email check",
+    "disposable email check",
+    "validat email",
+    "restrict email sign up",
+    "invalid email",
+    "test email"
+  ],
+  "author": {
+    "name": "RMayank Jhawar",
+    "email": "mayankjhawar18@gmail.com",
+    "url": "https://github.com/mayank30"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayank30/validate-email/issues"
+  },
+  "homepage": "https://github.com/mayank30/validate-email#readme"
+}
