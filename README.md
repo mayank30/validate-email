@@ -7,13 +7,13 @@ Use the below package and configure in your code for close to accurate validity 
 ## Install using npm
 
 ```bash
-npm i validate-email
+npm i advance-validate-email
 ```
 
 ## Methods & Options
 
 ```javascript
-const validate = require("validate-email");
+const validate = require("advance-validate-email");
 
 validate("john-doe@gmail.com"); // true
 validate("john-doe@mailsac.com"); // false
