@@ -1,6 +1,6 @@
 {
   "name": "advance-validate-email",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validate email, If it is valid or not, or is it a disposable or temprory email.",
   "main": "index.js",
   "repository": {
